@@ -4,8 +4,7 @@
 body {
 	font-family: 'Indie Flower', cursive !important;
   background: #f4deaa;
-	margin: 0px;
-	padding: 0px;
+	
 }
 
 body {
@@ -35,7 +34,7 @@ h4 {
 .color3{
     color:#2b7dc0;
     font-size: 4em; /* Ajusta el tamaño según tus necesidades */
-    margin-top: -20px; /* Ajusta este valor según tus necesidades */
+    margin-top: -10px; /* Ajusta este valor según tus necesidades */
 }
 
 
